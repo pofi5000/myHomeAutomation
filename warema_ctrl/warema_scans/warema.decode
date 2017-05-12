@@ -37,7 +37,7 @@ S01110100111111
 (should be the same as previous commands)
 
 1_down:
-
-
+S01110100111110
+(should be the same as previous commands)
 
 1_stop:
