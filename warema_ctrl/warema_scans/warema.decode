@@ -23,12 +23,14 @@ S000110011
 S
 
 2_down:
-
-
+S01110100110110
+S001001001
+S000110011
+S
 
 2_stop:
-
-
+S00110100110001
+(should be the same as previous commands)
 
 1_up:
 
