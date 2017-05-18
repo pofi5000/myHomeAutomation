@@ -49,5 +49,7 @@ S01110100100111
 (should be the same as previous commands)
 
 4_down:
+S01110100100110
+(should be the same as previous commands)
 
 4_stop:
