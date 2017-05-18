@@ -53,3 +53,5 @@ S01110100100110
 (should be the same as previous commands)
 
 4_stop:
+S00110100100001
+(should be the same as previous commands)
