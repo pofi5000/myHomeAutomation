@@ -41,3 +41,5 @@ S01110100111110
 (should be the same as previous commands)
 
 1_stop:
+S00110100111001
+(should be the same as previous commands)
